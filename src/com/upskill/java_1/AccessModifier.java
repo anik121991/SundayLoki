@@ -11,7 +11,8 @@ public class AccessModifier {
          String address = "Heritage Tower";         // default - classes in same package can access(if we don't use modifier this is called default)
 
 	
-
+//git test
+         int a = 5;
 }
 
  
