@@ -29,7 +29,8 @@ public class Variables {
     }
     
     public void test(){
-    	  
+    	//git test
+    	int a = 666;
 	}
 
 }
