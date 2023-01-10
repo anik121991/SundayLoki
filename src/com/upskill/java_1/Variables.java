@@ -30,7 +30,7 @@ public class Variables {
     
     public void test(){
     	//git test
-    	int a = 666;
+    	int a = 988git9099;
 	}
 
 }
